@@ -1,11 +1,10 @@
-
 <div align="center">
   <img src="https://i.ibb.co/nNwZXnp4/file-00000000c3ec61f9bd274e6f3081d9ac.png" alt="LPM Logo" width="150"/>
   <h1>🐾 Lynx Package Manager (LPM) v1.1.0</h1>
   <p><strong>Crafted in the shadows by Ninja Shadow</strong> 🥷</p>
   <p>A fast, agile, and modern Node.js package manager inspired by the speed of a lynx! 🚀</p>
   <p>
-    <a href="https://lpmjs.org"><span>🌐 Official Website</span></a> •
+    <a href="https://lpmjs.vercel.app"><span>🌐 Official Website</span></a> •
     <a href="https://github.com/ninjaMods17/lpm"><span>📂 GitHub</span></a> •
     <a href="mailto:emailhost36@gmail.com"><span>📧 Contact</span></a>
   </p>
@@ -36,7 +35,6 @@
      ```bash
      git clone https://github.com/ninjaMods17/lpm.git
      cd lpm
-     npm install
      npm link
      ```
    - Coming soon to npm: `npm install -g lpm` (stay tuned!).
